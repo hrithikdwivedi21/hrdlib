@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160221143789",
+    "project_id": "firstapp-75b86",
+    "storage_bucket": "firstapp-75b86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160221143789:android:e2c3a578cd6067d98d22e4",
+        "android_client_info": {
+          "package_name": "com.hrdlib.hrdlib"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160221143789-7uaveourc8qg0p8nehe08ck92t5dle4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFjy9cbt6sJ5WwAyLlbPOwTwakvuyXNtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160221143789-7uaveourc8qg0p8nehe08ck92t5dle4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
